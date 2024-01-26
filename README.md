@@ -1,5 +1,4 @@
 # ICP3
-# NN_ASSIGN_ICP_3
 Neural Network Assignment ICP_3 Programs:
 
 1. Created a class Employee and then did the following:
